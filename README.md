@@ -34,7 +34,7 @@ Clone the repo
 
 bash
 
-git clone https://github.com/your-username/trusted-crowdfunding.git
+git clone https://github.com/sumitbhathesar/understanding-smart-contracts.git
 cd trusted-crowdfunding
 Install Truffle & Ganache
 Ensure you have Truffle, Ganache, and MetaMask installed.
