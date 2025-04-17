@@ -24,3 +24,26 @@ This project helped me dive deeper into: 🧠 Smart Contract development
 
 🔗 Smart contract: SimpleStorage.sol
 🌍 Live on Ganache / Sepolia testnet (based on your setup)
+
+
+
+
+
+🧪 How to Run Locally
+Clone the repo
+
+bash
+
+git clone https://github.com/your-username/trusted-crowdfunding.git
+cd trusted-crowdfunding
+Install Truffle & Ganache
+Ensure you have Truffle, Ganache, and MetaMask installed.
+
+Compile & Migrate Smart Contract
+
+bash
+
+truffle compile
+truffle migrate
+
+Run Frontend Just open index.html in your browser.
